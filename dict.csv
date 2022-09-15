@@ -1,0 +1,9 @@
+List of Classification Model,Accuracy for Classification Report
+Balanced Bagging Classifier,Not selected for Comparision
+Balanced Random Forest Classifier,0.996268656716418
+Logistic Regression,0.9626865671641791
+Decision Tree Classifier,0.9925373134328358
+KMeans Clustring,0.3541666666666667
+MLP Classifier,0.996268656716418
+SVM Classifier,Not selected for Comparision
+RandomForestClassifier,Not selected for Comparision
